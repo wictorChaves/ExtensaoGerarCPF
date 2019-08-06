@@ -1,12 +1,13 @@
 {
     "name"            : "Gerar CPF",
-    "version"         : "1.0",
+    "version"         : "1.1",
     "description"     : "Gerador de CPF",
     "manifest_version": 2,
     "icons"           : {
         "16" : "images/icon16.png",
         "24" : "images/icon24.png",
         "32" : "images/icon32.png",
+		"64" : "images/icon64.png",
         "128": "images/icon128.png"
     },
     "browser_action": {
