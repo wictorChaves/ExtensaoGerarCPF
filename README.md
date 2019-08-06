@@ -6,5 +6,7 @@
 <p><img src="https://github.com/wictorChaves/ExtensaoGerarCPF/raw/master/images/icon128.png"></p>
 
 ## Screenshot
+
+Basta clicar no ícone para gerar um novo cpf e automaticamente ele é enviado para área de transferencial.
  
 <p><img src="https://github.com/wictorChaves/ExtensaoGerarCPF/raw/master/screenshot/440x280.png"></p>
