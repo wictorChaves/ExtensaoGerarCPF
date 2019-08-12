@@ -16,5 +16,7 @@ Esta ferramenta agiliza os teste quando é necessário o preenchimento de um CPF
 ## Screenshot
 
 A extensão é bem simples, ao terminar o processo de instalação aparecerá um ícone no canto direto superior do seu navegado com o ícone do CPF, ao clicar sobre o ícone é gerado um CPF aleatório e este CPF é salvo na sua área de transferência, facilitando assim o preenchimento de CPF durante os testes da sua aplicação.
- 
+
+<kbd>
 <p><img src="https://github.com/wictorChaves/ExtensaoGerarCPF/raw/master/screenshot/440x280.png"></p>
+</kbd>
