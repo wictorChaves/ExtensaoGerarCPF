@@ -7,7 +7,7 @@ Esta ferramenta agiliza os teste quando é necessário o preenchimento de um CPF
 
 # Publicações
 
-<p><a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/addon/gerar-cpf/"><img src="https://www.apponic.com/storage/images/163/16/7d519d90198e2e4afc31cd76de33f492.png" alt="Firefox">Publicado</a></p>
+<p><a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/addon/gerar-cpf/"><img src="https://www.apponic.com/storage/images/214/49/9a8771135092502dd8bc280064ac908e.png" alt="Firefox">Publicado</a></p>
 <p><img src="https://media.superfiles.com/screenshots/56/56648_64x64x99ac2f8aef.jpg" alt="Opera">Aguardando aprovação</p>
 <p><img src="https://iphone-tricks.com/wp-content/uploads/2017/03/chrome-offline-reading-list-icon-64x64.jpg" alt="Opera">Aguardando doações</p>
 
