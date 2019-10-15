@@ -2,7 +2,6 @@
 
 ![](icons/bmc.svg) [Buy me a coffee](https://ko-fi.com/wictorchaves)
 
-
 Esta ferramenta agiliza os teste quando é necessário o preenchimento de um CPF, com ela você consegue gerar um CPF e este é enviado automaticamente para a área de transferência.
  
 ![](images/icon128.png)
